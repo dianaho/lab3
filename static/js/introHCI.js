@@ -10,7 +10,7 @@ $(document).ready(function() {
  */
 function initializePage() {
 	$("#testjs").click(function(e) {
-		$('.jumbotron h1').text("Pew Pew Die");
+		$('.jumbotron h1').text("DOHHH!!!");
 		$(".jumbotron p").toggleClass("active");
 	});
 
